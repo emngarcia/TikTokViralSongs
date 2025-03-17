@@ -10,7 +10,7 @@ this file contains the code used to merge the lyrics dataframe with the spotify 
 # cluster_creation_evaluation
 this file contains the code used to create the kmeans clustering model as well as the evaluation of the clustering
 
-# analysis visualizations
+# analysis_visualizations
 this file contains the code used to concatenate the tiktok datasets into tiktok_data.csv and then to create visualizations based on the merged clusters
 
 # project_dataframes
