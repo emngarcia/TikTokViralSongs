@@ -14,4 +14,4 @@ this file contains the code used to create the kmeans clustering model as well a
 this file contains the code used to concatenate the tiktok datasets into tiktok_data.csv and then to create visualizations based on the merged clusters
 
 # project_dataframes
-this folder contains the various dataframes created and read into various project files to create models and visualizations
+this zip file contains the various dataframes created and read into various project files to create models and visualizations
